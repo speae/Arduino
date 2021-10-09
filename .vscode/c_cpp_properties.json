@@ -22,7 +22,8 @@
                 "/home/nvidia/Downloads/arduino-1.8.16-linuxaarch64/arduino-1.8.16/hardware/tools/avr/lib/gcc/avr/7.3.0/include",
                 "/home/nvidia/Downloads/arduino-1.8.16-linuxaarch64/arduino-1.8.16/hardware/tools/avr/lib/gcc/avr/7.3.0/include-fixed",
                 "/home/nvidia/Downloads/arduino-1.8.16-linuxaarch64/arduino-1.8.16/hardware/tools/avr/avr/include",
-                "${workspaceFolder}/libraries/HC-SR04/src"
+                "${workspaceFolder}/libraries/HC-SR04/src",
+                "${workspaceFolder}/libraries/Adafruit_VL53L0X/src"
             ],
             "forcedInclude": [
                 "/home/nvidia/Downloads/arduino-1.8.16-linuxaarch64/arduino-1.8.16/hardware/arduino/avr/cores/arduino/Arduino.h"
